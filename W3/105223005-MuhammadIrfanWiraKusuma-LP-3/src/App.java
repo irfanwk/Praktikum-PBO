@@ -5,6 +5,7 @@ public class App {
         Scanner input = new Scanner(System.in);
         System.out.print("Masukkan kalimat: ");
         String kalimat = input.nextLine();
+        input.close();
 
         //menghitung banyak vokal
         int banyakVokal=0;
