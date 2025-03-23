@@ -22,4 +22,7 @@ public class Mahasiswa {
         this.nim = nim;
         this.jurusan = "Jurusan";
     }
+    public String getNama() {
+        return nama;
+    }
 }

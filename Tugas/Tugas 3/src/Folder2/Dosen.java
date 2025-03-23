@@ -20,8 +20,6 @@ public class Dosen {
     }
 
     public Dosen(Mahasiswa mhs){
-        this.nama = "Nama Dosen";
-        this.nip = "NIP";
-        this.matkul = "Mata Kuliah yang diampu";
+        this.nama = mhs.getNama();
     }
 }
