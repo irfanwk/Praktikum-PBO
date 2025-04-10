@@ -16,6 +16,8 @@ public class Buku {
         jumlahBukuTersedia++;
     }
 
+    
+
     public String getJudul(){
         return judul;
     }
