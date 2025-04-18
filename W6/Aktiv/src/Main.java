@@ -1,4 +1,4 @@
-package W6;
+package W6.Aktiv.src;
 import W6.Aktivitas.Dosen.Dosen;
 import W6.Mahasiswa.Mahasiswa;
 import W6.MataKuliah.MataKuliah;
