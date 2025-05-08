@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Latihan2",
+            "request": "launch",
+            "mainClass": "Latihan2",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
+            "name": "Latihan1",
+            "request": "launch",
+            "mainClass": "Latihan1",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
