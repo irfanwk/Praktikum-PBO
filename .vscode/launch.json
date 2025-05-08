@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Soal3_IdentifikasiAtribut",
+            "request": "launch",
+            "mainClass": "Soal3_IdentifikasiAtribut",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
+            "name": "Soal1_DetektifAtribut",
+            "request": "launch",
+            "mainClass": "Soal1_DetektifAtribut",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
+            "name": "Soal2_AktivasiConstructorSuperclass",
+            "request": "launch",
+            "mainClass": "Soal2_AktivasiConstructorSuperclass",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
             "name": "Latihan2",
             "request": "launch",
             "mainClass": "Latihan2",
