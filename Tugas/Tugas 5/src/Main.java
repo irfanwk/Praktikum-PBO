@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args){
         Mahasiswa[] mhs = new Mahasiswa[5];
+        
         String[] nama = {"miwk", "rakan"};
         int[] nim = {1, 2};
         double[] ipk = {3.5, 3.8};

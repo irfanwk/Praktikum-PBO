@@ -8,6 +8,13 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "App",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "W7.Tes.src.App",
             "projectName": "Praktikum PBO_1ddc7ab"
         },

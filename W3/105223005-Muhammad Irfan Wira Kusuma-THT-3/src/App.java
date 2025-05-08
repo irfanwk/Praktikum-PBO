@@ -7,6 +7,8 @@ public class App {
         final int shiftMalam=50000;
         final int upahLembur=10000;
         final int batasLembur=20;
+
+
         final int batasAbsen=10;
         Scanner input=new Scanner(System.in);
         System.out.print("Masukkan jumlah pekerja: ");
