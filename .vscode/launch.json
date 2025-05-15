@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Whaaat",
+            "request": "launch",
+            "mainClass": "Whaaat",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Main2",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
+            "name": "No1_2",
+            "request": "launch",
+            "mainClass": "No1_2",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
+            "name": "No4",
+            "request": "launch",
+            "mainClass": "No4",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
+            "name": "No5",
+            "request": "launch",
+            "mainClass": "No5",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
+            "name": "No6",
+            "request": "launch",
+            "mainClass": "No6",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
+            "name": "No3",
+            "request": "launch",
+            "mainClass": "No3",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
+            "name": "Mainn",
+            "request": "launch",
+            "mainClass": "Mainn",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
             "name": "Soal3_IdentifikasiAtribut",
             "request": "launch",
             "mainClass": "Soal3_IdentifikasiAtribut",
