@@ -1,3 +1,6 @@
 {
-    "json.schemas": []
+    "json.schemas": [],
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AdventureGame",
+            "request": "launch",
+            "mainClass": "AdventureGame",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
             "name": "Whaaat",
             "request": "launch",
             "mainClass": "Whaaat",
