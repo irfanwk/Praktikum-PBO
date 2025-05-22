@@ -4,6 +4,6 @@ import event.NoEvent;
 
 public class NoEvent extends Event {
     public void execute(Player player) {
-        super.execute(player); // Memanggil implementasi default
+        super.execute(player);
     }
 }
