@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sistem_Pemesanan_Tiket_Transportasi",
+            "request": "launch",
+            "mainClass": "Sistem_Pemesanan_Tiket_Transportasi",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
             "name": "EmployeeManagement",
             "request": "launch",
             "mainClass": "EmployeeManagement",
