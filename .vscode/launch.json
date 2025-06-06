@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Utama",
+            "request": "launch",
+            "mainClass": "Utama",
+            "projectName": "Praktikum PBO_1ddc7ab"
+        },
+        {
+            "type": "java",
             "name": "Sistem_Pemesanan_Tiket_Transportasi",
             "request": "launch",
             "mainClass": "Sistem_Pemesanan_Tiket_Transportasi",
