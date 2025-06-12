@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Perpustakaan",
+            "request": "launch",
+            "mainClass": "Perpustakaan",
+            "projectName": "Praktikum PBO_7ab27358"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "checked.Main",
+            "projectName": "Praktikum PBO_7ab27358"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "eror.Main",
+            "projectName": "Praktikum PBO_7ab27358"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "unchecked.App",
+            "projectName": "Praktikum PBO_7ab27358"
+        },
+        {
+            "type": "java",
             "name": "Utama",
             "request": "launch",
             "mainClass": "Utama",
